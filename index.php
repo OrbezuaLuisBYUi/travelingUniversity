@@ -14,7 +14,7 @@ $Majors = array("CS"=>"Computer Science","WDD"=>"Web Design and Development","CI
     <meta charset="UTF-8">
     <title>travelingUniversity</title>
 </head>
-<body>
+<body class="inputUser">
 <!--form if a formulary-->
 <form method="post" action="processInfo.php"><!--action is active with the button submit, line 51-->
     Name:<br>

@@ -28,6 +28,7 @@ if(isset($_POST['AU'])){ $AU = $_POST['AU']; }
 if(isset($_POST['AF'])){ $AF = $_POST['AF']; }
 if(isset($_POST['AN'])){ $AN = $_POST['AN']; }
 
+echo "<div class='inputUser'>";
 echo "Name User: ".$name."<br>";
 echo "MailTo: ".$email."<br>";
 echo "Major: ".$nameMajor."<br>";
@@ -40,3 +41,4 @@ if(isset($AS)){ echo $AS."<br>"; }
 if(isset($AU)){ echo $AU."<br>"; }
 if(isset($AF)){ echo $AF."<br>"; }
 if(isset($AN)){ echo $AN."<br>"; }
+echo "</div>";
