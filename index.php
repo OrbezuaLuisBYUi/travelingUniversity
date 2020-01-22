@@ -16,7 +16,7 @@ $Majors = array("CS"=>"Computer Science","WDD"=>"Web Design and Development","CI
 </head>
 <body class="inputUser">
 <!--form if a formulary-->
-<form method="post" action="processInfo.php"><!--action is active with the button submit, line 51-->
+<form method="post" action="<?php echo htmlspecialchars('processInfo.php');?>"><!--action is active with the button submit, line 51-->
     Name:<br>
     <input type="text" name="name" placeholder="Name"><br>
     Email:<br>
