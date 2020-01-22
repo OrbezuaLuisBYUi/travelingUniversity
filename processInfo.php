@@ -30,7 +30,13 @@ if(isset($_POST['AN'])){ $AN = $_POST['AN']; }
 
 echo "<div class='inputUser'>";
 echo "Name User: ".$name."<br>";
-echo "MailTo: ".$email."<br>";
+
+if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    echo "Invalid email format <br>";
+}
+else{
+    echo "MailTo: ".$email."<br>";
+}
 echo "Major: ".$nameMajor."<br>";
 echo "Comments: ".$comments."<br>";
 echo "I TRAVELED TO THIS CONTINENTS:<br>";

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0cf6e1e-0653-4c4d-8df9-8ba1a1083e06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processInfo.php" afterPath="$PROJECT_DIR$/processInfo.php" />
     </list>
     <ignored path="travelingUniversity.iws" />
@@ -52,11 +50,11 @@
       <file leaf-file-name="processInfo.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/processInfo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7376543" vertical-offset="168" max-vertical-offset="833">
-              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.55401236" vertical-offset="219" max-vertical-offset="935">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
               <folding>
                 <element signature="e#6#65#0#PHP" expanded="true" />
-                <marker date="1579661784682" expanded="true" signature="860:868" placeholder="..." />
+                <marker date="1579662497150" expanded="true" signature="860:868" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -235,14 +233,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.9454546" vertical-offset="0" max-vertical-offset="1037">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
@@ -251,13 +241,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9454546" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/processInfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7376543" vertical-offset="168" max-vertical-offset="833">
-          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.55401236" vertical-offset="219" max-vertical-offset="935">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding>
             <element signature="e#6#65#0#PHP" expanded="true" />
-            <marker date="1579661784682" expanded="true" signature="860:868" placeholder="..." />
+            <marker date="1579662497150" expanded="true" signature="860:868" placeholder="..." />
           </folding>
         </state>
       </provider>
